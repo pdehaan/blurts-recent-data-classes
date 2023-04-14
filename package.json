@@ -1,0 +1,16 @@
+{
+  "name": "blurts-recent-data-classes",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "bin": {
+    "blurts-recent-data-classes": "node index.js"
+  },
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "type": "module"
+}
